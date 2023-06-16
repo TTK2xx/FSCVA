@@ -7,7 +7,7 @@ The source code and data will be made public upon acceptance of the paper.
 ## User Guide
 
 
-## TOP 10 GOOGLE SEARCH WORDS FROM 2013 TO 2022 USED IN ASSESSING SEARCH ENGINES.
+## TOP 10 GOOGLE SEARCH WORDS FROM 2013 TO 2022 USED IN ASSESSING SEARCH ENGINES
 
 | **Years** | **2013**         | **2014**                 | **2015**                | **2016**          | **2017**                     | **2018**         | **2019**         | **2020**              | **2021**             | **2022**              |
 |-----------|------------------|--------------------------|-------------------------|-------------------|------------------------------|------------------|------------------|-----------------------|----------------------|-----------------------|
